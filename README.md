@@ -12,7 +12,7 @@ Your website.
 
 **What's that look like?**
 
-[Like so](http://halcy.de/coppers/coppersfull.htm), text optional.
+[Like so](http://aka-san.halcy.de/coppers.css/coppers.htm), Amiga optional.
 
 **Great, how?**
 
@@ -27,6 +27,10 @@ Yes.
 **How exactly...**
 
 You don't want to know.
+
+**Animated?**
+
+Naturally.
 
 **What browsers?**
 
