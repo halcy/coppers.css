@@ -1,9 +1,12 @@
 <!DOCTYPE HTML>
 <html>
 <head>
+<meta charset="utf-8">
 <link rel="stylesheet" type="text/css" href="coppers.css">
+<script type="text/javascript" src="music/libopenmpt.js"></script>
+<script type="text/javascript" src="music/chiptune2.js"></script>
 </head>
-<body style="text-align:center; background:url('amigascreen.png'); color:#EEEEEE;">
+<body style="text-align:center; background:url('amigascreen.png'); color:#EEEEEE;" onLoad="var player=new ChiptuneJsPlayer(new ChiptuneJsConfig(-1)); player.load('music/dragonsfunk.mod',function(buffer){player.play(buffer);});">
 <h1>COPPERS.CSS</h1>
 
 <div style="margin:auto; text-align:left; width:1024px;">
