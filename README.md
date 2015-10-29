@@ -30,7 +30,7 @@ You don't want to know.
 
 **What browsers?**
 
-Any that have good SVG support, which means firefox only.
+Any that have good SVG support, which means any browser may or may not work depending on moon phase and jupiters orbital inclination.
 
 **Why?**
 
